@@ -21,7 +21,7 @@ Looking forward to connecting and collaborating with fellow developers and tech 
   
 - 🌱 **Learning:**
 - I’m currently learning Node.js and Express.js to broaden my skill set and Explore the serverside aspect of the web.
-- 
+  
 🌟 **Highlights:**
 - Developed responsive and user-friendly web applications that enhance user experience and drive business growth.
 - Implemented RESTful APIs, database integration, and efficient data management to ensure seamless functionality.
