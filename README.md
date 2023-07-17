@@ -19,9 +19,6 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 - UI/UX Design: Adobe XD, Figma, Canva
 - Deployment: Heroku, Netlify
   
-- 🌱 **Learning:**
-- I’m currently learning Node.js and Express.js to broaden my skill set and Explore the serverside aspect of the web.
-  
 🌟 **Highlights:**
 - Developed responsive and user-friendly web applications that enhance user experience and drive business growth.
 - Implemented RESTful APIs, database integration, and efficient data management to ensure seamless functionality.
@@ -34,7 +31,7 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 - [E-commerce Store](https:******//example.com): A responsive online store with secure payment integration.
 
 ✨ **Passionate Learner:**
-I am constantly expanding my knowledge and staying updated with the latest industry trends and technologies. I love exploring new frameworks, libraries, and tools to enhance my development skills.
+I am constantly expanding my knowledge and staying updated with the latest industry trends and technologies. I love exploring new frameworks, libraries, and tools to enhance my development skills. presently, I’m currently learning Node.js and Express.js to broaden my skill set and to explore the serverside aspect of the web.
 
 📫 **Get in Touch:**
 Let's connect and collaborate on exciting projects! Feel free to reach out to me via email at [abdu.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrasaq-taofeeq-olarewaju).
