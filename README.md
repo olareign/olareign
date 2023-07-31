@@ -17,7 +17,7 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 - Database: MongoDB
 - Version Control: Git, GitHub
 - UI/UX Design: Adobe XD, Figma, Canva
-- Deployment: Heroku, Netlify
+- Deployment: Heroku, Render, Netlify
   
 🌟 **Highlights:**
 - Developed responsive and user-friendly web applications that enhance user experience and drive business growth.
