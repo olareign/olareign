@@ -2,7 +2,7 @@
 - 👀 I’m interested in up-and-coming technologies and innovative projects that challenge conventional limits.
 - 🌱 I’m currently learning Node.js and Express.js to broaden my skill set and Explore the serverside aspect of the web.
 - 💞️ I’m looking to collaborate on exciting web development projects and contribute my expertise to create impactful solutions.
-- 📫 How to reach me: Feel free to connect with me on LinkedIn at [www.linkedin.com/in/abdulrasaq-taofeeq-olarewaju] or drop me an email at [abdulrasaqolarewaju88@gmail.com]. Let's discuss how we can work together to bring ideas to life.
+- 📫 How to reach me: Feel free to connect with me on LinkedIn at www.linkedin.com/in/abdulrasaq-taofeeq-olarewaju or drop me an email at abdulrasaqolarewaju88@gmail.com. Let's discuss how we can work together to bring ideas to life.
 
 Looking forward to connecting and collaborating with fellow developers and tech enthusiasts! Let's create something amazing together! ✨
 ****************************************************************************************************************************************************************
@@ -26,15 +26,13 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 - Embraced the agile development approach, ensuring timely delivery and continuous improvement.
 
 💡 **Projects:**
-- [Portfolio Website](https:*****//example.com): A showcase of my skills, experience, and projects.
-- [Task Manager App](https:******//example.com): A full-stack application to manage and track tasks efficiently.
-- [E-commerce Store](https:******//example.com): A responsive online store with secure payment integration.
+- Portfolio Website: https:www.abdulrasaq.netlify.app A showcase of my skills, experience, and projects.
+- Blog site: https:www.abdulrasaq.hashnode.dev: A Showcase of my technical writing skills.
 
 ✨ **Passionate Learner:**
 I am constantly expanding my knowledge and staying updated with the latest industry trends and technologies. I love exploring new frameworks, libraries, and tools to enhance my development skills. presently, I’m currently learning Node.js and Express.js to broaden my skill set and to explore the serverside aspect of the web.
 
 📫 **Get in Touch:**
-Let's connect and collaborate on exciting projects! Feel free to reach out to me via email at [abdu.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrasaq-taofeeq-olarewaju).
+Let's connect and collaborate on exciting projects! Feel free to reach out to me via email at abdulrasaqolarewaju88@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/abdulrasaq-taofeeq-olarewaju.
 
 Thank you for visiting my profile, and I look forward to creating amazing things together! ✨
-[![@olareign's Holopin board](https://holopin.me/olareign)](https://holopin.io/@olareign)
