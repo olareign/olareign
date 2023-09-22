@@ -12,8 +12,8 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 👋 Welcome to my GitHub profile! I'm Abdulrasaq, a passionate Full Stack Developer with a keen interest in creating exceptional web applications. I thrive on tackling complex challenges and crafting innovative solutions that drive impactful results.
 
 🚀 **Skills and Expertise:**
-- Frontend Development: HTML, CSS, JavaScript
-- Backend Development: Node.js, Express.js
+- Frontend Development: HTML, CSS, JavaScript, Typescript
+- Backend Development: Node.js, Express.js, Typescript
 - Database: MongoDB
 - Version Control: Git, GitHub
 - UI/UX Design: Adobe XD, Figma, Canva
