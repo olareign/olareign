@@ -9,18 +9,16 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 **Abdulrasaq Taofeeq Olarewaju**
 *Web Developer | JavaScript Enthusiast | Problem Solver*
 
-👋 Welcome to my GitHub profile! I'm Abdulrasaq, a passionate Full Stack Developer with a keen interest in creating exceptional web applications. I thrive on tackling complex challenges and crafting innovative solutions that drive impactful results.
+👋 Welcome to my GitHub profile! I'm Abdulrasaq, a passionate Backend Developer with a keen interest in creating exceptional web applications. I thrive on tackling complex challenges and crafting innovative solutions that drive impactful results.
 
 🚀 **Skills and Expertise:**
 - Frontend Development: HTML, CSS, JavaScript, Typescript
-- Backend Development: Node.js, Express.js, Typescript
-- Database: MongoDB
+- Backend Development: Node.js, Express.js, Nestjs,
+- Database: MongoDB, PostgreSQL, Redis, GraphQL
 - Version Control: Git, GitHub
-- UI/UX Design: Adobe XD, Figma, Canva
 - Deployment: Heroku, Render, Netlify
   
 🌟 **Highlights:**
-- Developed responsive and user-friendly web applications that enhance user experience and drive business growth.
 - Implemented RESTful APIs, database integration, and efficient data management to ensure seamless functionality.
 - Collaborated in cross-functional teams, utilizing strong communication and problem-solving skills to deliver high-quality projects.
 - Embraced the agile development approach, ensuring timely delivery and continuous improvement.
@@ -30,7 +28,7 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 - Blog site: https:www.abdulrasaq.hashnode.dev: A Showcase of my technical writing skills.
 
 ✨ **Passionate Learner:**
-I am constantly expanding my knowledge and staying updated with the latest industry trends and technologies. I love exploring new frameworks, libraries, and tools to enhance my development skills. presently, I’m currently learning Node.js and Express.js to broaden my skill set and to explore the serverside aspect of the web.
+I constantly expand my knowledge and stay updated with the latest industry trends and technologies. I love exploring new frameworks, libraries, and tools to enhance my development skills. presently, I’m currently learning Node.js and Express.js to broaden my skill set and to explore the serverside aspect of the web.
 
 📫 **Get in Touch:**
 Let's connect and collaborate on exciting projects! Feel free to reach out to me via email at abdulrasaqolarewaju88@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/abdulrasaq-taofeeq-olarewaju.
