@@ -12,11 +12,12 @@ Looking forward to connecting and collaborating with fellow developers and tech 
 👋 Welcome to my GitHub profile! I'm Abdulrasaq, a passionate Backend Developer with a keen interest in creating exceptional web applications. I thrive on tackling complex challenges and crafting innovative solutions that drive impactful results.
 
 🚀 **Skills and Expertise:**
-- Frontend Development: HTML, CSS, JavaScript, Typescript
+- Frontend Development: HTML, CSS, JavaScript, Typescript, Rust
 - Backend Development: Node.js, Express.js, Nestjs,
-- Database: MongoDB, PostgreSQL, Redis, GraphQL
-- Version Control: Git, GitHub
-- Deployment: Heroku, Render, Netlify
+- Database: MongoDB, PostgreSQL, Redis, GraphQL.
+- Version Control: Git, GitHub.
+- Deployment: Heroku, Render, Netlify, AWS.
+- AI: openAI, 
   
 🌟 **Highlights:**
 - Implemented RESTful APIs, database integration, and efficient data management to ensure seamless functionality.
