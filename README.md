@@ -36,14 +36,37 @@ Alongside the engineering, I write technical books for developers making the jum
 
 ### Selected work
 
+**Client & product work**
+
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Rakuxon Care](https://github.com/olareign/rakuxon-care)** · [live](https://rakuxon-care.vercel.app) | Marketing site for a UK care-sector brand spanning CQC-registered home care and B2B care-business enablement | Next.js · TypeScript · Headless CMS |
-| **[Parcelux](https://github.com/olareign/parcelux)** · [live](https://v0-web3-real-estate-design.vercel.app) | Web3 real-estate concept | TypeScript · Web3 |
-| **[Lawluxe](https://github.com/olareign/lawluxe)** · [live](https://lawluxe.vercel.app) | — | TypeScript |
-| **[Pacesetter](https://github.com/olareign/pacesetter)** · [live](https://pacesetter-gamma.vercel.app) | — | TypeScript |
-| **[Owanbe Space](https://github.com/olareign/owanbespace)** | — | TypeScript |
-| **[Quad](https://github.com/olareign/Quad)** | — | Go |
+| **[Pacifylabs](https://github.com/olareign/pacifylabs-project)** | Project built for Pacifylabs | TypeScript |
+| **[TERM](https://github.com/olareign/term-FE)** | Track, Engage, Report, Monitor — front end for the [TERM platform](https://github.com/olareign/track-engage-report-monitor-TERM) | TypeScript |
+
+**Full-stack applications**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Furniture Store** — [frontend](https://github.com/olareign/furniture-project-FE) · [backend](https://github.com/olareign/furniture-project-BE) | Furniture project, split across separate front-end and back-end repositories | TypeScript · Node.js |
+| **[BookMyTime](https://github.com/olareign/bookmytime)** | Appointment booking platform | TypeScript |
+| **[Ecommerce App](https://github.com/olareign/Ecommerce-App)** · [live](https://ecommerce-app-tau-three.vercel.app) | Storefront application | TypeScript |
+| **[Digital Certification System](https://github.com/olareign/digital-certification-system)** | Issuing and verifying digital certificates | — |
+| **[Spotify Application](https://github.com/olareign/Spotify-application)** | Music client built on the Spotify API | — |
+
+**Backend & APIs**
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Blog App with NestJS](https://github.com/olareign/Blog-App-with-Nestjs)** | Blogging backend built on NestJS | NestJS · TypeScript |
+| **[Ecommerce API](https://github.com/olareign/ECOMMERCE-API)** | Commerce REST API | Node.js · Express |
+| **[JobSter API](https://github.com/olareign/JobSter-API-app)** | Job-tracking API | Node.js · Express |
+| **[RESTful API with User Authentication](https://github.com/olareign/RESTful-API-with-User-Authentication)** | Auth-backed REST service | Node.js · Express |
+| **[Stock Manager](https://github.com/olareign/stock-manager)** | Inventory management service | JavaScript |
+
+**Foundations**
+
+Systems and low-level work from my ALX Software Engineering programme — [C programming](https://github.com/olareign/alx-low_level_programming) and [system engineering & DevOps](https://github.com/olareign/alx-system_engineering-devops).
 
 ### Books I've written
 
