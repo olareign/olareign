@@ -14,6 +14,11 @@
 
 ---
 
+### Currently
+
+- 🚀 **Development Team Lead** at [Tobams Group](https://tobamsgroup.com) (UK, remote) — leading a team of 10+, shipping across the Nexus, RLK, RLM, and Rareeat platforms
+- 🛠️ **Software Engineer & Tutor** at Pacifylabs — own SafePick (child pickup authorization platform) end-to-end and build Rakuxon Care, SCIMS, EduMimi, and KudiPay while mentoring 20+ learners
+
 ### What I do
 
 I work end-to-end: designing the data model, building the API, and shipping the interface. Most of my recent work is **Next.js + TypeScript** product engineering — marketing sites, booking platforms, and commerce apps deployed on Vercel — with backend services in **Node.js/NestJS** and **Go**.
