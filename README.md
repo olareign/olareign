@@ -66,22 +66,9 @@ const abdulrasaq = {
       <p><a href="https://rakuxon-care.vercel.app">🔗 Live site</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/olareign/term-FE">TERM</a></h3>
-      <p>Track, Engage, Report, Monitor — front end for the <a href="https://github.com/olareign/track-engage-report-monitor-TERM">TERM platform</a>.</p>
-      <p><code>TypeScript</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/olareign/bookmytime">BookMyTime</a></h3>
       <p>Appointment booking platform.</p>
       <p><code>TypeScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/olareign/Ecommerce-App">Ecommerce App</a></h3>
-      <p>Storefront application.</p>
-      <p><code>TypeScript</code></p>
-      <p><a href="https://ecommerce-app-tau-three.vercel.app">🔗 Live site</a></p>
     </td>
   </tr>
 </table>
@@ -91,29 +78,11 @@ const abdulrasaq = {
 
 <br>
 
-**Client & product work**
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Pacifylabs](https://github.com/olareign/pacifylabs-project)** | Project built for Pacifylabs | TypeScript |
-
 **Full-stack applications**
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **Furniture Store** — [frontend](https://github.com/olareign/furniture-project-FE) · [backend](https://github.com/olareign/furniture-project-BE) | Furniture project, split across separate front-end and back-end repositories | TypeScript · Node.js |
-| **[Digital Certification System](https://github.com/olareign/digital-certification-system)** | Issuing and verifying digital certificates | — |
-| **[Spotify Application](https://github.com/olareign/Spotify-application)** | Music client built on the Spotify API | — |
-
-**Backend & APIs**
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Blog App with NestJS](https://github.com/olareign/Blog-App-with-Nestjs)** | Blogging backend built on NestJS | NestJS · TypeScript |
-| **[Ecommerce API](https://github.com/olareign/ECOMMERCE-API)** | Commerce REST API | Node.js · Express |
-| **[JobSter API](https://github.com/olareign/JobSter-API-app)** | Job-tracking API | Node.js · Express |
-| **[RESTful API with User Authentication](https://github.com/olareign/RESTful-API-with-User-Authentication)** | Auth-backed REST service | Node.js · Express |
-| **[Stock Manager](https://github.com/olareign/stock-manager)** | Inventory management service | JavaScript |
 
 **Foundations**
 
